@@ -1,19 +1,84 @@
-.col {
-    text-align: center ;
+/* .col { */
+    /* text-align: center ;
     padding: 30px 50px 30px 50px;
     font-size: 15px;
-    
+     */
 
     /* background-color: blue; */
+/* } */
+
+/* .靜態網頁設計 { */
+    /* color: yellow; */
+/* } */
+
+/* .col tr { */
+    /* padding: 15px; */
+    /* background: ; */
+
+/* } */
+
+table {
+  border: 1px solid black;
+  text-align:center;
+  margin: 100px auto;
+  font-weight: bold;
 }
 
-.靜態網頁設計 {
-    color: yellow;
+tr {
+  border: 1px solid black;
+  
 }
 
-.col tr {
-    padding: 15px;
-    background: ;
-
+td {
+  border: 1px solid black;
+  
 }
+
+.名字 {
+    background: rgb(209, 165, 209);
+    
+  }
+  
+.課表 {
+    background: rgb(113, 191, 214);
+  }
+  
+.星期 {
+    background: rgb(180, 211, 108);
+    border:5px;
+  }
+
+.數字 {
+    background: rgb(113, 191, 214);
+  }
+
+.時間 {
+    background: rgb(180, 211, 108);
+  }
+
+.內格 {
+    background: rgb(209, 165, 209);
+  }
+
+.課程 {
+  background:yellow;
+} 
+
+.聯絡資訊 {
+  background: rgb(209, 165, 209);
+}
+
+.Email {
+    background: rgb(180, 211, 108);
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.9rem;
+  }
+
+.Webpage {
+    background: rgb(113, 191, 214);
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.9rem;
+  }
 
